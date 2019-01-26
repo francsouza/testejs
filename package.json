@@ -1,0 +1,12 @@
+{
+  "name": "curso-vscode",
+  "version": "1.0.0",
+  "description": "Teste de aplicação com JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Francisco Souza <francisco@theconnect.com.br",
+  "license": "ISC"
+}
